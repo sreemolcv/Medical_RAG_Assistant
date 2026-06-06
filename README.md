@@ -32,7 +32,7 @@ Why does stroke occur?
 
 The system retrieves relevant medical literature and generates evidence-based answers from the indexed documents.
 
-![Medical RAG Demo](screenshots/app_demo.png)
+![Medical RAG Demo](screenshort/Screenshot 2026-06-06 192553.png)
 
 ---
 
